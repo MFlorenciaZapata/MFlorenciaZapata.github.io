@@ -1,0 +1,41 @@
+
+
+.portada {
+    background-image: url(../lewagon/imagenes/portada22.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: bottom;
+    margin: 20px;
+    padding: 100px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.inicio {
+    padding-right: 250px;
+    padding-top: 60px;
+}
+
+.texto {
+    padding-right: 245px;
+}
+
+h2 {
+    margin-left: 15px;
+}
+
+.card {
+    background-color: lightcoral;
+    display: flex;
+    margin: 15px;
+    image-rendering: auto                                                                                                                                            ;
+}
+
+.btn {
+    background-color: whitesmoke;
+}
+
+.footer{
+    background-color: lightcoral;
+    padding: 30px;
+}
