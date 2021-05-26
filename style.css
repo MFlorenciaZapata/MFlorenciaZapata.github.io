@@ -35,7 +35,10 @@ h2 {
     background-color: whitesmoke;
 }
 
+.h5 {
+    background-color: white;
+}
+
 .pie {
-    background-color: lightcoral;
     padding: 30px;
 }
